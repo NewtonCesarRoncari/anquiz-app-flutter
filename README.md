@@ -1,4 +1,4 @@
-# anquizz_app
+# anquiz_app
 
 A new Flutter application.
 
